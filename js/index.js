@@ -11,7 +11,7 @@ window.onload = function () {
     //     }, 3000)
     // })
 
-    // 倒计时 runTimer
+    // 倒计时 runTimer 
     let runTimer = null;
     // 总结部分的字体添加动效果
     const res_words_animation = 'tracking-in-contract-bck-top-res-section';
@@ -232,7 +232,7 @@ window.onload = function () {
     // 计时器
     function timerRunningMarchine() {
         // 相识时间
-        let startDate = '2020/12/13 20:00:00';
+        let startDate = '2021/5/1 20:00:00';
         let startTimeStamp = new Date(startDate).getTime();
 
         // 相爱时间
@@ -320,8 +320,5 @@ window.onload = function () {
     console.log('         ❤️ ❤️ ❤️ ❤️');
     console.log('           ❤️ ❤️');
     console.log('            ❤️');
-
-
-
 
 }
